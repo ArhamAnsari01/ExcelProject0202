@@ -25,6 +25,10 @@ Standardized the Marital Status column to remove confusion:
 
 M was replaced with Married
 
+S was replaced with Single
+
+Created a new Age Bracket column to group individual age values into meaningful age groups. This made the analysis and visualizations easier to read and interpret.
+
 
 Data Analysis
 
@@ -38,6 +42,3 @@ Through this project, I improved my understanding of how important data cleaning
 
 Date:02/02/2026
 
-S was replaced with Single
-
-Created a new Age Bracket column to group individual age values into meaningful age groups. This made the analysis and visualizations easier to read and interpret.
